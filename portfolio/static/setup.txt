@@ -1,0 +1,3 @@
+1. Place a picture of yourself called 'headshot.jpg' in this folder
+2. Place a file of your CV called 'resume.pdf' in this folder
+3. Delete this file 'setup.txt' from this folder
